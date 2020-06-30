@@ -60,6 +60,14 @@ Esto es otro texto no que no se relaciona con la cita.
 
 > Otra cita.
 
+# Lineas divisoras
+Esto es una linea divisora.
+
+---
+Y esto seria otra linea
+
+***
+
 
 
 
