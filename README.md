@@ -52,4 +52,14 @@ Underline 3
 | Juan | Jara | 23452345x |
 
 
+# Citas
+Esto es un texto referente a una cita que veremos debajo:
+> Esto es una cita.
+
+Esto es otro texto no que no se relaciona con la cita.
+
+> Otra cita.
+
+
+
 
