@@ -35,6 +35,15 @@ Underline 3
 # Imagenes
 ![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
+# Codigo Snipets
+ ¨¨JSON
+[
 
+    {
+        "titulo": "El titulo",
+        "count": [12000,20000]
+    }
+]
+¨¨
 
 
