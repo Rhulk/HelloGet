@@ -68,6 +68,12 @@ Y esto seria otra linea
 
 ***
 
+# Salto de lin3a
 
+Esto es una linea.
+
+Esto es la segunda linea.
+
+Esto es la segunda linea.
 
 
