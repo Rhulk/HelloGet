@@ -45,5 +45,11 @@ Underline 3
     }
 ]
 ¨¨
+# tablas
+| Nombre | Apellido | Documento |
+|--------|----------|-----------|
+| Maxi | Burgos | 345634x |
+| Juan | Jara | 23452345x |
+
 
 
